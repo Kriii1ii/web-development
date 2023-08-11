@@ -1,0 +1,38 @@
+body {
+    font-family: Lato, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color:#ffe5d9;
+    color: #ffe5d9;
+    padding: 10px;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar li {
+    margin: 0 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #03045e;
+}
+
+.header {
+    text-align: center;
+    padding: 30px;
+    background-color:blanchedalmond;
+}
+
+
+.search-form {
+    text-align: center;
+    padding: 20px;
+}
